@@ -61,6 +61,8 @@ Bracket expressions differentiates a character class where expressions using par
 
 ### Greedy and Lazy Match
 
+Greedy means to match the longest string in the expression while lazy means to match the shortest string in the expression.
+
 ### Boundaries
 
 ### Back-references
