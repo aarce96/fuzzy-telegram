@@ -34,9 +34,11 @@ Quantifiers indicate the number of characters or expressions to match. Also, a q
 
 ### OR Operator
 
-
+An OR operator are used to match one of multiple patterns. In a current sequence, the operator represents those characters that fall in between the two elements.
 
 ### Character Classes
+
+A character class help spot out different kinds of characters such as distinguishing between letters and digits.
 
 ### Flags
 
