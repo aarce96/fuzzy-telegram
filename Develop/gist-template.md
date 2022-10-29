@@ -42,6 +42,15 @@ A character class help spot out different kinds of characters such as distinguis
 
 ### Flags
 
+A flag changes the search behavior. There are six different flags each with a unique purpose, the flags are represented by lowercase letter. 
+
+The, i, makes the search case-insensitive. 
+The, g, makes the search for all occurrences. 
+The, s,	makes the wild character and can also match newlines as well.
+The, m, makes the boundary characters ^ and $ match the beginning and ending of every single line instead of the beginning and ending of the whole string.
+The, y, makes the start search from the index indicated in its lastIndex property.
+The, u, makes the individual characters as code points, not code units.
+
 ### Grouping and Capturing
 
 ### Bracket Expressions
