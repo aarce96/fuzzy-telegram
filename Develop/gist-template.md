@@ -73,6 +73,8 @@ Back references are commands that refer to a previous part of a match regular ex
 
 ### Look-ahead and Look-behind
 
+Look-ahead allows the user to add a condition for what follows. Look-behind is allows it to match a pattern only if there's something before it.
+
 ## Author
 
 A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
