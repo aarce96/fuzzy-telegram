@@ -69,6 +69,8 @@ There are 3 different boundary positions; before the first character in a string
 
 ### Back-references
 
+Back references are commands that refer to a previous part of a match regular expression. Back references are indicated with a backslash and a single digit.
+
 ### Look-ahead and Look-behind
 
 ## Author
