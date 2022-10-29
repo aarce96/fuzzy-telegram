@@ -4,7 +4,7 @@ This is a tutorial explaining Regex also known as Regular Expressions and how th
 
 ## Summary
 
-Regex is useful for getting information from text by searching for one or more matches of a specific search pattern.
+Regex are useful for getting information from any text by searching for one or more matches of a specific search pattern. You can use this tool in most of the programming languages out there.​​
 
 - Example: /^([a-z0-9_\.-]+)@([\da-z\.-]+)\.([a-z\.]{2,6})$/
 
