@@ -4,7 +4,7 @@ This is a tutorial explaining Regex also known as Regular Expressions and how th
 
 ## Summary
 
-Briefly summarize the regex you will be describing and what you will explain. Include a code snippet of the regex. Replace this text with your summary.
+Regex is useful for getting information from text by searching for one or more matches of a specific search pattern.
 
 ## Table of Contents
 
