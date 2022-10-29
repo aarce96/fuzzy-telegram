@@ -65,6 +65,8 @@ Greedy means to match the longest string in the expression while lazy means to m
 
 ### Boundaries
 
+There are 3 different boundary positions; before the first character in a string, after the last character in a string and between two characters in a string.
+
 ### Back-references
 
 ### Look-ahead and Look-behind
