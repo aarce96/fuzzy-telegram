@@ -30,6 +30,8 @@ Anchors are positioned before or after characters. Anchors can be used to put in
 
 ### Quantifiers
 
+Quantifiers indicate the number of characters or expressions to match. Also, a quantifier can be written after to specify how many times it should be repeated.
+
 ### OR Operator
 
 ### Character Classes
