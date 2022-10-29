@@ -77,4 +77,6 @@ Look-ahead allows the user to add a condition for what follows. Look-behind is a
 
 ## Author
 
-A short section about the author with a link to the author's GitHub profile (replace with your information and a link to your profile)
+My name is Arturo Arce. I am currently enrolled in a coding boot camp through Columbia University. My goal is to become a full stack web developer and work in the tech industry.
+
+- GitHub Profile: https://github.com/aarce96
