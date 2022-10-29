@@ -1,6 +1,6 @@
-# Title (replace with your title)
+# Tutorial Guide for Regex
 
-Introductory paragraph (replace this with your text)
+This is a tutorial explaining Regex also known as Regular Expressions and how they work.
 
 ## Summary
 
