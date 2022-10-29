@@ -53,6 +53,8 @@ The, u, makes the individual characters as code points, not code units.
 
 ### Grouping and Capturing
 
+Grouping is putting together groups a sequence of patterns into one single unit. To group a pattern, a pair of parentheses () is needed, and between them the desired group. Also quantifying a whole sequence one or more times is called a capturing group.
+
 ### Bracket Expressions
 
 ### Greedy and Lazy Match
