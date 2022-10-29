@@ -57,6 +57,8 @@ Grouping is putting together groups a sequence of patterns into one single unit.
 
 ### Bracket Expressions
 
+Bracket expressions differentiates a character class where expressions using parentheses are a capturing group.
+
 ### Greedy and Lazy Match
 
 ### Boundaries
